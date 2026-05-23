@@ -1,0 +1,17 @@
+# Arduino IDE
+*.hex
+*.elf
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/*.pt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
