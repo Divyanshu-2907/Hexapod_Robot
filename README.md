@@ -12,6 +12,19 @@
 
 A fully custom 18-DOF hexapod with an integrated 4-DOF robotic arm (25 DOF total), built from scratch using 3D-printed PLA frame, MG996R servos, NRF24L01 PA/LNA wireless, and a YOLOv8 computer vision pipeline for autonomous obstacle detection and object manipulation.
 
+## 📸 Gallery
+
+<p align="center">
+  <img src="images/hexapod_front.jpg" width="45%" alt="Hexapod Front View"/>
+  &nbsp;&nbsp;
+  <img src="images/hexapod_side.jpg" width="45%" alt="Hexapod Side View"/>
+</p>
+<p align="center">
+  <img src="images/hexapod_arm.jpg" width="45%" alt="Robotic Arm"/>
+  &nbsp;&nbsp;
+  <img src="images/walking.gif" width="45%" alt="Walking Demo"/>
+</p>
+
 ## ✨ Features
 
 - **Sinusoidal tripod gait** with IK/FK and smoothing parameters
