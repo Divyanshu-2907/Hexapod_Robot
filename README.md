@@ -21,10 +21,6 @@ A fully custom 18-DOF hexapod with an integrated 4-DOF robotic arm (25 DOF total
 </p>
 <p align="center">
   <img src="images/hexapod_arm.jpg" width="45%" alt="Robotic Arm"/>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Divyanshu-2907/Hexapod_Robot/blob/main/images/walking.mp4" target="_blank">
-    <img src="images/hexapod_front.jpg" width="45%" alt="Walking Demo (Click to Watch)"/>
-  </a>
 </p>
 
 ## ✨ Features
