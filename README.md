@@ -22,7 +22,7 @@ A fully custom 18-DOF hexapod with an integrated 4-DOF robotic arm (25 DOF total
 <p align="center">
   <img src="images/hexapod_arm.jpg" width="45%" alt="Robotic Arm"/>
   &nbsp;&nbsp;
-  <video src="images/walking.mp4" width="45%" controls autoplay loop muted playsinline title="Walking Demo"></video>
+  <video src="https://raw.githubusercontent.com/Divyanshu-2907/Hexapod_Robot/main/images/walking.mp4" width="45%" controls autoplay loop muted playsinline title="Walking Demo"></video>
 </p>
 
 ## ✨ Features
@@ -123,6 +123,14 @@ python detect_and_send.py --port COM3 --stream http://192.168.1.10:81/stream
 
 See [docs/wiring.md](docs/wiring.md) and [docs/gait_parameters.md](docs/gait_parameters.md).
 
+## 👥 Contributors
+
+This project was developed by:
+- **Divyanshu Kumar**
+- **Akash Kumar**
+- **Nitesh Sakarwar**
+- **Atul Kumar**
+
 ## 📬 Contact
 
 **Divyanshu Kumar** — dk5506934@gmail.com  
@@ -134,4 +142,3 @@ MIT License.
 
 ---
 
-*Firmware v4.0 receiver + v3.0 transmitter. Transmitter base by Emre Kalem (2025); Mega/arm integration (2026).*
